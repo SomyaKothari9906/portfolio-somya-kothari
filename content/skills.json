@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "name": "Programming Languages",
+      "skills": [
+        { "name": "Python", "emoji": "🐍" },
+        { "name": "C++", "emoji": "⚡" },
+        { "name": "C", "emoji": "🔧" },
+        { "name": "HTML", "emoji": "🌐" }
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "skills": [
+        { "name": "Machine Learning", "emoji": "🤖" },
+        { "name": "TensorFlow", "emoji": "🔬" },
+        { "name": "NumPy", "emoji": "📊" },
+        { "name": "Pandas", "emoji": "🐼" },
+        { "name": "Matplotlib", "emoji": "📈" },
+        { "name": "Scikit-learn", "emoji": "🧪" }
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "skills": [
+        { "name": "Git", "emoji": "🔀" },
+        { "name": "GitHub", "emoji": "🐙" },
+        { "name": "VS Code", "emoji": "💻" },
+        { "name": "Vercel", "emoji": "▲" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "platform": "GitHub",
+    "username": "SomyaKothari9906",
+    "url": "https://github.com/SomyaKothari9906",
+    "icon": "github",
+    "color": "#6e40c9",
+    "stats": "3+ public repos"
+  },
+  {
+    "platform": "LinkedIn",
+    "username": "somya-kothari-aiml",
+    "url": "https://www.linkedin.com/in/somya-kothari-aiml/",
+    "icon": "linkedin",
+    "color": "#0A66C2",
+    "stats": "AI & ML Network"
+  },
+  {
+    "platform": "LeetCode",
+    "username": "somyakothari",
+    "url": "https://leetcode.com/somyakothari",
+    "icon": "leetcode",
+    "color": "#FFA116",
+    "stats": "Problem Solver"
+  },
+  {
+    "platform": "HackerRank",
+    "username": "somyakothari",
+    "url": "https://www.hackerrank.com/somyakothari",
+    "icon": "hackerrank",
+    "color": "#2EC866",
+    "stats": "Ranked Coder"
+  },
+  {
+    "platform": "GeeksForGeeks",
+    "username": "somyakothari",
+    "url": "https://www.geeksforgeeks.org/user/somyakothari",
+    "icon": "geeksforgeeks",
+    "color": "#2F8D46",
+    "stats": "CS Articles Reader"
+  }
+]

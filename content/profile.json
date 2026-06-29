@@ -1,0 +1,18 @@
+{
+  "name": "Somya Kothari",
+  "tagline": "AI & ML Engineering Student · Software Developer · Building Intelligent Solutions",
+  "email": "somyakothari454@gmail.com",
+  "phone": "9294543968",
+  "location": "Indore, Madhya Pradesh",
+  "bio": [
+    "I'm Somya Kothari, a 2nd-year B.Tech student specializing in Computer Science Engineering with a focus on AI & ML at Acropolis Institute of Technology and Research, Indore.",
+    "My goal is to strengthen my AI/ML and software engineering skills through real-world projects and become an AI Engineer building intelligent, scalable systems.",
+    "I believe in building systems that learn from data, solve real-world problems, and create meaningful impact."
+  ],
+  "cgpa": "7.47",
+  "year": "2nd Year, 4th Semester",
+  "college": "Acropolis Institute of Technology and Research",
+  "branch": "Computer Science Engineering (AI & ML)",
+  "availability": "Open to Opportunities",
+  "resumeAvailable": false
+}

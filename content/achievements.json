@@ -1,0 +1,37 @@
+[
+  {
+    "title": "AI for Bharat Hackathon",
+    "description": "Participated in the national AI for Bharat Hackathon, building solutions for social impact using AI/ML.",
+    "icon": "Trophy",
+    "date": "2024",
+    "highlight": true
+  },
+  {
+    "title": "7+ Hackathons",
+    "description": "Active hackathon participant with 7+ events, consistently delivering working prototypes under time pressure.",
+    "icon": "Zap",
+    "date": "2023–2025",
+    "highlight": false
+  },
+  {
+    "title": "Portfolio Sprint",
+    "description": "Completed the Portfolio Sprint — a 4-hour intensive challenge to build and ship a production portfolio.",
+    "icon": "Rocket",
+    "date": "2025",
+    "highlight": true
+  },
+  {
+    "title": "Coding Competitions",
+    "description": "Participated in multiple online and college-level coding competitions across platforms like LeetCode and HackerRank.",
+    "icon": "Code2",
+    "date": "2024–2025",
+    "highlight": false
+  },
+  {
+    "title": "Open Source Contributions",
+    "description": "Contributed to open source repositories and built public tools on GitHub.",
+    "icon": "GitMerge",
+    "date": "2024–2025",
+    "highlight": false
+  }
+]

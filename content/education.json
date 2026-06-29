@@ -1,0 +1,29 @@
+[
+  {
+    "year": "2024 – 2028",
+    "title": "B.Tech — Computer Science Engineering (AI & ML)",
+    "institution": "Acropolis Institute of Technology and Research",
+    "location": "Indore, Madhya Pradesh",
+    "grade": "CGPA: 7.47",
+    "current": true,
+    "description": "Pursuing B.Tech with specialization in Artificial Intelligence and Machine Learning. Currently in 2nd year, 4th semester."
+  },
+  {
+    "year": "2024",
+    "title": "Class 12th — PCM",
+    "institution": "SICA School",
+    "location": "Indore, Madhya Pradesh",
+    "grade": "81%",
+    "current": false,
+    "description": "Completed higher secondary education with Physics, Chemistry, and Mathematics."
+  },
+  {
+    "year": "2022",
+    "title": "Class 10th",
+    "institution": "SICA School",
+    "location": "Indore, Madhya Pradesh",
+    "grade": "88%",
+    "current": false,
+    "description": "Completed secondary education with distinction."
+  }
+]

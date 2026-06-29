@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vaani-seva",
+    "title": "Vaani Seva",
+    "description": "An AI-powered multilingual voice assistant designed to make government services accessible to rural and semi-urban citizens in India. Supports multiple Indian languages and uses NLP to process spoken queries.",
+    "tech": ["Python", "NLP", "TensorFlow", "React", "Node.js"],
+    "github": "https://github.com/makekush7-netizen/VaaniSeva",
+    "live": "https://www.vaaniseva.me/",
+    "image": "/projects/vaani-seva.jpg",
+    "featured": true
+  },
+  {
+    "id": "aria",
+    "title": "Aria",
+    "description": "A desktop AI assistant built for workflow automation. Aria can control applications, manage files, schedule tasks, and respond to natural language commands — your personal AI OS agent.",
+    "tech": ["Python", "AI Agents", "Electron", "LLM", "Automation"],
+    "github": "https://github.com/makekush7-netizen/AriaOSAgent",
+    "live": "https://www.ariaos.me",
+    "image": "/projects/aria.jpg",
+    "featured": false
+  },
+  {
+    "id": "ai-code-review",
+    "title": "AI Code Review",
+    "description": "An intelligent code review assistant powered by AI. Paste your code and get instant feedback on bugs, style issues, performance, and best practices — across multiple programming languages.",
+    "tech": ["Next.js", "TypeScript", "OpenAI", "Vercel", "Tailwind"],
+    "github": "https://github.com/SomyaKothari9906/Code-review",
+    "live": "https://code-review-theta.vercel.app/",
+    "image": "/projects/ai-code-review.jpg",
+    "featured": false
+  }
+]
