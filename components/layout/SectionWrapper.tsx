@@ -45,7 +45,7 @@ export default function SectionWrapper({
       className={cn("py-24 md:py-32", className)}
     >
       <div className="container mx-auto px-4 sm:px-6 md:px-8 lg:px-12 max-w-6xl">
-        <p className="section-label">// {label}</p>
+        <p className="section-label">{"//"} {label}</p>
         {renderHeadline()}
         {children}
       </div>
